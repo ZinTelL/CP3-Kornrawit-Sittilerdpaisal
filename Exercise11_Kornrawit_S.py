@@ -3,3 +3,4 @@ space = " "
 for i in range(number):
    j = ((number-i)+2)
    print(((space*j)+"*"*(((i+1)*2)-1)))
+print("Merry christmas")
