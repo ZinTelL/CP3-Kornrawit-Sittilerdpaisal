@@ -10,5 +10,4 @@ for i in range(line):
 
    print(space+star)
 
-
 print("Merry christmas")
